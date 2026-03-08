@@ -80,3 +80,5 @@ project_name/
 The project architecture follows a client-server-database flow:
 1.	UI / Client → Interacts with → Server (Mock / Fake) → Fetches data from → Database (db.json)
 2.	Database → Sends data to → Server → Returns data to → React Client (BHEEM UPI)
+
+***Ramakant Chaudhari***
