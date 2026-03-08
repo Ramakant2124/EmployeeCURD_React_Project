@@ -1,0 +1,19 @@
+{
+  "employee": [
+    {
+      "name": "Rahul",
+      "dob": "2000-05-10",
+      "gender": "male",
+      "address": "kasoda",
+      "id": "1"
+    },
+    {
+      "id": "8316",
+      "name": "golu",
+      "dob": "2026-03-13",
+      "gender": "male",
+      "address": "pune"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
